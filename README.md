@@ -7,7 +7,7 @@ It also includes several test cases for handling the project test
 # How to run the program
 To run the program, follow the following steps:
 
-1. `npm install` to install the project dependencies basend on package.json file in the project
+1. `npm install` to install the project dependencies based on package.json file in the project
 2. `npm run test` to test the project test cases
 3. `node src/primes.js` to run the project itself.
 
