@@ -1,0 +1,15 @@
+{
+  "name": "get-primes",
+  "version": "1.0.0",
+  "description": "get prime numbers",
+  "main": "src/primes.js",
+  "scripts": {
+    "test": "mocha src/test/primes.test.js"
+  },
+  "author": "jimoh hadi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
